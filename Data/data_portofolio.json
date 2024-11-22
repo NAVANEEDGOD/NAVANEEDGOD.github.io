@@ -1,0 +1,13 @@
+{
+    "data":[
+        {"title":"umkm1","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test.jpg","list_image":["../src/assets/Images/test.jpg","../src/assets/Images/test.jpg"]},
+        {"title":"umkm2","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test2.jpg","list_image":["../src/assets/Images/test.jpg"]},
+        {"title":"umkm3","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test.jpg","list_image":["../src/assets/Images/test.jpg"]},
+        {"title":"umkm4","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test2.jpg","list_image":["../src/assets/Images/test.jpg"]},
+        {"title":"umkm5","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test.jpg","list_image":["../src/assets/Images/test.jpg"]},
+        {"title":"umkm6","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test2.jpg","list_image":["../src/assets/Images/test.jpg"]},
+        {"title":"umkm7","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test.jpg","list_image":["../src/assets/Images/test.jpg"]},
+        {"title":"umkm8","desc":"usaha membantu usaha","link":"https://google.com","preview":"../src/assets/Images/test2.jpg","list_image":["../src/assets/Images/test.jpg"]}
+
+    ]
+}

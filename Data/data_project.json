@@ -1,0 +1,17 @@
+{
+    "data" : [
+        {"title":"Mech-AI1","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageSchool.png","variant":"school","imgLink":"../src/assets/Images/Static/testImage.png","percentage":70  ,"position":[-0.45,2.2,0.2]},
+        {"title":"Mech-AI2","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageFun.png","variant":"fun","imgLink":"../src/assets/Images/Static/testImage.png","percentage":30  ,"position":[-0.15,2.2,0.2]},
+        {"title":"Mech-AI3","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageFun.png","variant":"fun","imgLink":"../src/assets/Images/Static/testImage.png","percentage":20  ,"position":[0.15,2.2,0.2]},
+        {"title":"Mech-AI4","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageCreative.png","variant":"creative","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[-0.45,1.84,0.2]},
+        {"title":"Mech-AI5","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageProfesional.png","variant":"profesional","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[-0.15,1.84,0.2]},
+        {"title":"Mech-AI6","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageExperiment.png","variant":"experiment","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[0.15,1.84,0.2]},
+        {"title":"Mech-AI7","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageSchool.png","variant":"school","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[-0.45,1.48,0.2]},
+        {"title":"Mech-AI8","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageProfesional.png","variant":"profesional","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[-0.15,1.48,0.2]},
+        {"title":"Mech-AI9","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageSchool.png","variant":"school","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[0.15,1.48,0.2]},
+        {"title":"Mech-AI10","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageCreative.png","variant":"creative","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[-0.45,1.126,0.2]},
+        {"title":"Mech-AI11","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageProfesional.png","variant":"profesional","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[-0.15,1.126,0.2]},
+        {"title":"Mech-AI12","desc":"game robot strategi turn based","link":"#","preview":"../src/assets/Images/Static/testImageExperiment.png","variant":"experiment","imgLink":"../src/assets/Images/Static/testImage.png","percentage":10  ,"position":[0.15,1.126,0.2]}
+    
+    ]
+}
